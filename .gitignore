@@ -7,4 +7,7 @@ target/
 .classpath
 HELP.md
 mvnw
+.metadata
+.mvn
+mvnw*
 mvnw.cmd
